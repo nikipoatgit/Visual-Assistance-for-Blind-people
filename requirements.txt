@@ -1,0 +1,7 @@
+gradio>=5.0
+ultralytics
+opencv-python-headless
+easyocr
+rapidfuzz
+numpy
+pyttsx3
