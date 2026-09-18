@@ -22,3 +22,4 @@ build/
 # Local logs and runtime output
 *.log
 runs/
+yolov8n.pt
